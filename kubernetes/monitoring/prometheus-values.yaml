@@ -1,0 +1,12 @@
+prometheus:
+  prometheusSpec:
+    retention: 7d
+    resources:
+      requests:
+        cpu: 100m
+        memory: 256Mi
+grafana:
+  enabled: true
+  adminPassword: admin
+  service:
+    type: LoadBalancer
