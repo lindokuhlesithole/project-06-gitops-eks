@@ -119,10 +119,6 @@ terraform destroy -auto-approve
 
 **Cost: ~$100/month. Destroy within 2-3 hours to minimize charges.**
 
-## Author
-
-AWS Cloud Portfolio Project
-
 ---
 
 **Lindokuhle Sithole** - *Cloud Engineer | Cloud DevOps Engineer | Cloud Security Specialist*
