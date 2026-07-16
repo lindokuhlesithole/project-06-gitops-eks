@@ -117,9 +117,7 @@ cd terraform
 terraform destroy -auto-approve
 ```
 
-**Cost: ~$100/month. Destroy within 2-3 hours to minimize charges.**
-
----
+**Cost: ~$100/month. Destroy within 2-3 hours to minimize charges.**## Author
 
 **Lindokuhle Sithole** - *Cloud Engineer | Cloud DevOps Engineer | Cloud Security Specialist*
 
